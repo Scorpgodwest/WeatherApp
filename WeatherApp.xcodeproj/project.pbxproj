@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		D63417BA2E23E8D00094A67D /* swiftuicourse */ = {
+		D63417BA2E23E8D00094A67D /* WeatherApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = swiftuicourse;
+			path = WeatherApp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		D63417AF2E23E8D00094A67D = {
 			isa = PBXGroup;
 			children = (
-				D63417BA2E23E8D00094A67D /* swiftuicourse */,
+				D63417BA2E23E8D00094A67D /* WeatherApp */,
 				D63417B92E23E8D00094A67D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				D63417BA2E23E8D00094A67D /* swiftuicourse */,
+				D63417BA2E23E8D00094A67D /* WeatherApp */,
 			);
 			name = WeatherApp;
 			packageProductDependencies = (
