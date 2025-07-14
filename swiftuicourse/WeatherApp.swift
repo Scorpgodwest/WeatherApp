@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct swiftuicourseApp: App {
+struct WeatherApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

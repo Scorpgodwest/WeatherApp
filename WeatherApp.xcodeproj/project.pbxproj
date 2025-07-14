@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		D63417B82E23E8D00094A67D /* swiftuicourse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftuicourse.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D63417B82E23E8D00094A67D /* WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		D63417B92E23E8D00094A67D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D63417B82E23E8D00094A67D /* swiftuicourse.app */,
+				D63417B82E23E8D00094A67D /* WeatherApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D63417B72E23E8D00094A67D /* swiftuicourse */ = {
+		D63417B72E23E8D00094A67D /* WeatherApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D63417C62E23E8D10094A67D /* Build configuration list for PBXNativeTarget "swiftuicourse" */;
+			buildConfigurationList = D63417C62E23E8D10094A67D /* Build configuration list for PBXNativeTarget "WeatherApp" */;
 			buildPhases = (
 				D63417B42E23E8D00094A67D /* Sources */,
 				D63417B52E23E8D00094A67D /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				D63417BA2E23E8D00094A67D /* swiftuicourse */,
 			);
-			name = swiftuicourse;
+			name = WeatherApp;
 			packageProductDependencies = (
 			);
 			productName = swiftuicourse;
-			productReference = D63417B82E23E8D00094A67D /* swiftuicourse.app */;
+			productReference = D63417B82E23E8D00094A67D /* WeatherApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D63417B32E23E8D00094A67D /* Build configuration list for PBXProject "swiftuicourse" */;
+			buildConfigurationList = D63417B32E23E8D00094A67D /* Build configuration list for PBXProject "WeatherApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D63417B72E23E8D00094A67D /* swiftuicourse */,
+				D63417B72E23E8D00094A67D /* WeatherApp */,
 			);
 		};
 /* End PBXProject section */
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D63417B32E23E8D00094A67D /* Build configuration list for PBXProject "swiftuicourse" */ = {
+		D63417B32E23E8D00094A67D /* Build configuration list for PBXProject "WeatherApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D63417C42E23E8D10094A67D /* Debug */,
@@ -314,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D63417C62E23E8D10094A67D /* Build configuration list for PBXNativeTarget "swiftuicourse" */ = {
+		D63417C62E23E8D10094A67D /* Build configuration list for PBXNativeTarget "WeatherApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D63417C72E23E8D10094A67D /* Debug */,
